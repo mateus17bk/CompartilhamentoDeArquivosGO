@@ -9,4 +9,4 @@ Esse projeto é uma demonstração de um compartilhamento de logs de um servidor
 + O acesso deve ser somente de leitura 
 + Configurar SFTP não é permitido
 
-CompartilhamentoDeArquivosGO
+
